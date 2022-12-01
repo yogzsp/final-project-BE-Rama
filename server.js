@@ -32,7 +32,8 @@ const fileFilter= (req, file, cb) => {
 const app = express();
 
 const corsOptions = {
-  origin: "http://localhost:8081"
+
+  origin: "*"
 };
 
 
