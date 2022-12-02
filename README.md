@@ -1,5 +1,8 @@
 # Final project BE
 
+
+# ERD (Entity Relationship Diagram)
+![](erd.png)
 # API Spec
 
 Run Node.js application with command: `npm run dev` or `node server.js`.
