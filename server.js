@@ -4,6 +4,7 @@ const path = require('path');
 const express = require("express");
 const cors = require("cors");
 const cookieSession = require("cookie-session");
+require('dotenv/config')
 
 const dbConfig = require("./config/db.config");
 
